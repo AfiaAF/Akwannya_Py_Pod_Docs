@@ -60,7 +60,7 @@ Python is also known to have 2 kinds: Python 2 and Python 3, which are not readi
 
 * **Handling Errors:** I practiced the art of "spoil and fix"—intentionally making syntax and runtime mistakes to study how Python's error messages look, and learning how to read those logs to debug code effectively.
 
-
+* **Completing the Module:** I ended my studies on this module by completing the knowledge test attached to the structured learning material.
 
 ---
 
