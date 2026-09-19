@@ -1,0 +1,76 @@
+\# Weekly Journal: Week 1 – Introduction to Python and Computer Programming
+
+
+
+Recently, I officially joined the Akwannya Python Skills Pod that gave me access to structured materials to relearn Python. Since I have a fair understanding of the language but took a break from it, this first module served as a fantastic refresher to brush up on my foundational knowledge and shake off the rust. Revisiting the core principles was a great reminder of how programming languages bridge the gap between human thought and machine execution.
+
+
+
+\## What I Learned and Did
+
+
+
+\### 1. How Programs Work and Language Levels
+
+
+
+\* \*\*How Computers Work:\*\* I reviewed how a computer program is essentially a detailed sequence of instructions designed to solve a problem or automate a task.
+
+\* \*\*Natural vs. Programming Languages:\*\* I looked at why we use programming languages instead of natural human languages (like English), which are often ambiguous and context-dependent. Programming languages require strict syntax and precision so instructions are never misunderstood.
+
+\* \*\*Machine vs. High-Level Languages:\*\* I revisited the gap between raw \*\*machine language\*\* (the binary 0s and 1s directly executed by the CPU) and \*\*high-level languages\*\* (like Python, which use human-readable words like `print` and `if` to make coding intuitive).
+
+
+
+\### 2. Compilation vs. Interpretation
+
+
+
+\* \*\*The Translation Process:\*\* I refreshed my memory on how code gets turned into machine instructions.
+
+\* \*\*Compilers vs. Interpreters:\*\* While a compiler translates the entire source code into a standalone executable file \*before\* running it, an interpreter translates and executes the code \*line-by-line\* on the fly.
+
+\* \*\*Pros and Cons:\*\* I weighed the advantages and disadvantages: compiled languages generally offer faster execution speeds because the translation happens beforehand, whereas interpreted languages like Python trade a bit of speed for incredible flexibility, portability, and immediate feedback—making them ideal for testing and learning. I also looked closer at what the interpreter actually does behind the scenes during execution.
+
+
+
+\### 3. Discovering Python
+
+
+
+\* \*\*Origins \& Philosophy:\*\* I explored Python's backstory, remembering how Guido van Rossum created it in 1989 as a Christmas holiday hobby project to keep himself occupied.
+
+\* \*\*Special Features \& Rivals:\*\* I re-familiarized myself with what makes Python unique—its heavy emphasis on code readability, indentation rules, and massive versatility across web development, data science, and automation—while briefly comparing it to rival languages like Java or C++.
+
+\* \*\*Where It's Used \& Limitations:\*\* I noted real-world applications where Python shines, as well as scenarios where it might \*not\* be the best choice (such as ultra-low-level hardware driver development or high-performance 3D game engines). 
+
+Python is also known to have 2 kinds: Python 2 and Python 3, which are not readily compatible with each other but are both important. It is however recommended to build using Python 3 as it is newer and is more used currently.
+
+\* \*\*Implementations:\*\* I also touched upon the fact that "there is more than one Python," looking at different implementations (like CPython, Jython, and PyPy) that execute Python code in various environments.
+
+
+
+\### 4. Getting Started, First Code, and Troubleshooting
+
+
+
+\* \*\*Environment Setup:\*\* Since I already had Python configured on my PC, I skipped the download phase, verified my setup, and prepared my workspace.
+
+\* \*\*First Steps:\*\* I ran a few basic scripts such as *print("hello world")* to refamiliarize myself.
+
+\* \*\*Handling Errors:\*\* I practiced the art of "spoil and fix"—intentionally making syntax and runtime mistakes to study how Python's error messages look, and learning how to read those logs to debug code effectively.
+
+
+
+\---
+
+
+
+\## Reflection
+
+
+
+Overall, joining this program and diving into this first week has been a fantastic way to ease back into the groove. While I worked through the concepts individually to rebuild my momentum and brush up on the theory, facilitating our group discussions twice this week gave me a wonderful chance to share my perspective, hear my team members' insights, and solidify our understanding together. I also successfully hosted a mini quiz to test our base knowledge of the module on the W3schools website (https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON). 
+
+
+
